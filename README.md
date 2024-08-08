@@ -1,6 +1,3 @@
-Here is a comprehensive README file in Markdown format that integrates the information from both the `lab_4.py` and `main.py` scripts.
-
-```markdown
 # Python Applications
 
 ## Introduction
