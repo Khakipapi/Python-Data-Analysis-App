@@ -26,7 +26,7 @@ To run these applications, ensure you have Python installed on your machine. You
 ### Steps to Install:
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/Khakipapi/Python-Data-Analysis-App.git
     ```
 2. Navigate to the project directory:
     ```sh
